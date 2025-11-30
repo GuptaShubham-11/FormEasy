@@ -11,3 +11,6 @@ package-lock.json
 pnpm-lock.yaml
 .git
 tsconfig.json
+tsconfig*
+eslint*
+vite*
