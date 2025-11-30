@@ -1,0 +1,12 @@
+# Ignore artifacts:
+build
+coverage
+node_modules
+dist
+package.json
+package-lock.json
+.env.local
+.env.sample
+.env*
+.pnpm-lock.yaml
+.git
